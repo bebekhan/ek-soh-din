@@ -32,5 +32,12 @@ Day 7, Sunday:
 <br>
 <p>EOW Reflection: So, this is a daily commitment to committing solid 1 hour chunks of code reflections. I met that goal but failed to actually resolve a merge conflict. Going forward I am determined to make sure I am being consistent with committing my progress daily. Timestamps make it more official (it just feels right looks better I guess! :) .</p>
 <br>
+<br>
+Day 8, Monday: 
+<p>Thoughts: Worked on networking concepts inside pluralsight. I went over some networking concepts at work and all I can think of atm is: "errraythang on the network (tcp/ip) is a node...every node has a NIC...every NIC has a MAC...." - as a very smart awesome friend put it! So...this is the theme for today. Also, a very important topic to understand on my journey to becoming a seasoned developer.  Not sure what that means but taking it one day at a time until things start to click is getting closer in my book.</p>
+
+Day 9, Tuesday: 
+<p>Thoughts: Continued working on my git tutorial and then website for an hour tonight. Looking forward to coding more tomorrow.</p>
+
 
 

@@ -35,9 +35,10 @@ Day 7, Sunday:
 <br>
 Day 8, Monday: 
 <p>Thoughts: Worked on networking concepts inside pluralsight. I went over some networking concepts at work and all I can think of atm is: "errraythang on the network (tcp/ip) is a node...every node has a NIC...every NIC has a MAC...." - as a very smart awesome friend put it! So...this is the theme for today. Also, a very important topic to understand on my journey to becoming a seasoned developer.  Not sure what that means but taking it one day at a time until things start to click is getting closer in my book.</p>
-
+<br>
 Day 9, Tuesday: 
 <p>Thoughts: Continued working on my git tutorial and then website for an hour tonight. Looking forward to coding more tomorrow.</p>
-
-
+<br>
+Day 10, Wednesday:
+<p>Thoughts: Just do it! 60-mins of drilling myself on git. Just because I felt like it. It needs to feel effortless that is when you know you have it down! - said someone at TM tonight!
 

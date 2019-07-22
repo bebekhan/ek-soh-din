@@ -73,5 +73,11 @@ Thoughts - Halfway done with Py3 in CodeAcademy. Next topic I'd like to tackle i
 <p>Day 20, Saturday:
 Thoughts - Done with the other half of py3. Finally feeling ready to keep working on my personal projects. Needed to step away from my website to brush up on changes to Py3 as compared to 2.7 which is what I'm familiar with.</p>
 <br>
+<p>Day 21, Sunday:
+Thoughts - Work up super early this morning to read what I found last night! My mentor recommended this book to me when I first met him at Hackbright and now it has been revised to include the small but powerful improvements that come with learning Python3. https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf
+*Tip I recall from our first conversation, "Practice as you read. That is the only way this is all going to click!" Thank you Rit!Didn't get a chance to work on anything too practicle today but I did play around with the examples in terminal. Taking this to the next level by including those examples next time. 
+</p>
+<br> 
+ 
 
 

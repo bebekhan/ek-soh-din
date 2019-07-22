@@ -60,9 +60,12 @@ Thoughts - Working on my personal website! Distracted by html and css at the mom
 <p>Day 16, Tuesday:
 Thoughts - Same as yesterday! I'm excited to contribute meaningful articles/blogs of interest to this website as it becomes the official page that defines my professional aspirations and interests. It is going to be the window through which I want to tell my SWE story.</p>
 <br>
-<p>Day 17, Tuesday:
+<p>Day 17, Wednesday:
 Thoughts - So I was happy to report my hour a day coding practice has been consistent when it occured to me that I wasn't pushing my log to gh daily but just keeping record as a running journal - that is okay but defeats the purpose of keeping a history of logs pushed to gh. Seriously, this challenge is about disciplline and making this a habit...right!?!(Immediate Conversation with myself)Com'on Benish get your habits together!!! PUSH THAT CODE. So today I did code in Codecademy for an hour. Any I resolve to get this habit together. Over the next week I will work on that becoming a solid practice.
 </p>
+<br>
+<p>Day 18, Thursday:
+Thoughts - Done with JS in CodeAcademy.
 
 
 

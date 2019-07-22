@@ -41,15 +41,6 @@ Day 9, Tuesday:
 <br>
 Day 10, Wednesday:
 <p>Thoughts: Just do it! 60-mins of drilling myself on git. Just because I felt like it. It needs to feel effortless that is when you know you have it down! - said someone at TM tonight!
-<br>
-Day 11, Thursday:
-<p>Thoughts - Very busy day. Full of disappointments. Went through some  coding exercises in interview cake for an hour. Interesting how fun solving problems can get when you just get to sit down and focus.</p>
-<br>
-<p>Day 12, Friday:
-Thoughts - Went through some  coding exercises in interview cake for an hour. Really helps me understand where to focus my CS related studies.</p>
-<br>
-<p>Day 13, Saturday:
-Thoughts - Went through some  coding exercises in interview cake for an hour again. Thinking about enrolling into a class or attending a conference where I can partake in a bootcamp...Grateful to live in the heart of Silicon Valley where education and opportunities to further advance our skills are so accessible.</p>
 	
 
 

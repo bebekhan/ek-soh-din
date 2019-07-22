@@ -65,7 +65,11 @@ Thoughts - So I was happy to report my hour a day coding practice has been consi
 </p>
 <br>
 <p>Day 18, Thursday:
-Thoughts - Done with JS in CodeAcademy.
+Thoughts - Done with JS in CodeAcademy.</p>
+<br>
+<p>Day 19, Friday:
+Thoughts - Halfway done with Py3 in CodeAcademy. Next topic I'd like to tackle is db's.</p>
+<br>
 
 
 

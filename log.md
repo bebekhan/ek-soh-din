@@ -70,6 +70,8 @@ Thoughts - Done with JS in CodeAcademy.</p>
 <p>Day 19, Friday:
 Thoughts - Halfway done with Py3 in CodeAcademy. Next topic I'd like to tackle is db's.</p>
 <br>
-
+<p>Day 20, Saturday:
+Thoughts - Done with the other half of py3. Finally feeling ready to keep working on my personal projects. Needed to step away from my website to brush up on changes to Py3 as compared to 2.7 which is what I'm familiar with.</p>
+<br>
 
 

@@ -57,8 +57,9 @@ Thoughts - Git is not my best friend. Although I recognize that my sanity depend
 <p>Day 15, Monday:
 Thoughts - Working on my personal website! Distracted by html and css at the moment. Going for a GOT theme that plays with the theme of Khan. What that means...I don't know yet. Just thinking in sublime atm.</p>
 <br>
-
- 
+<p>Day 16, Tuesday:
+Thoughts - Same as yesterday! I'm excited to contribute meaningful articles/blogs of interest to this website as it becomes the official page that defines my professional aspirations and interests. It is going to be the window through which I want to tell my SWE story.</p>
+<br>
 
 
 

@@ -78,6 +78,7 @@ Thoughts - Work up super early this morning to read what I found last night! My 
 *Tip I recall from our first conversation, "Practice as you read. That is the only way this is all going to click!" Thank you Rit!Didn't get a chance to work on anything too practicle today but I did play around with the examples in terminal. Taking this to the next level by including those examples next time. 
 </p>
 <br> 
- 
-
+<p>Day 22, Monday:
+Thoughts - Was going to work on my projects today but not feeling it. Instead, I practiced SQL Queries for an hour. Had a very interesting conversation with my friend about db's! I'm excited to start planning the db for my brothers website. I want to take my skills to the next level and help people that are very special to me.  I'm hopeful that having his own website to officialize his side hustle will give him a sense of pride in his passion - cars! </p>
+<br>
 

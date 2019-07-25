@@ -81,11 +81,13 @@ Thoughts - Work up super early this morning to read what I found last night! My 
 <p>Day 22, Monday:
 Thoughts - Was going to work on my projects today but not feeling it. Instead, I practiced SQL Queries for an hour. Had a very interesting conversation with my friend about db's! I'm excited to start planning the db for my brothers website. I want to take my skills to the next level and help people that are very special to me.  I'm hopeful that having his own website to officialize his side hustle will give him a sense of pride in his passion - cars! </p>
 <br>
-<p>Day 2, Tuesday:
+<p>Day 23, Tuesday:
 Thoughts - On the practical side I only got ~30 mins to work on some sorting algorithm questions on bubble sort. Needed to get some last minute work items completed which turned out to be a really cool opportunity to learn about bastion hosts. I hear this term quite a bit at work and feel curious about all the buzz around it...I'm quickly learning DevOps is my favorite place to be as a SWE mainly because there is so much to learn and I love that. Some key concepts I will pickup as part of my further study is as follows:
 - Hosting EC2 web servers in private subnets
 - Serving traffic to private subnets via an ELB
 - Accessing (ssh) instances in a private subnet via a Bastion Host
 - Providing instances in a private subnet with the ability to download software packages via a NAT Gateway</p>
 <br>
-
+<p>Day 24, Wednesday:
+Thoughts - I am exhausted today. Last minute crunch time at work with the quarter ending and the list goes on. On the coding side of things...I worked on troubleshooting for an hour today but that is about it.  Tomorrow is another day. Start fresh and code first thing is the plan. Also committed to leveling up my CI/CD knowledge over the next 90-days so that will be interesting and fun! </p>
+<br>
